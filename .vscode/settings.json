@@ -1,0 +1,6 @@
+{
+    "java.configuration.runtimes": [{
+    "name": "JavaSE-21",
+    "path": "/usr/local/opt/openjdk@21",
+    "default": true
+}]}
